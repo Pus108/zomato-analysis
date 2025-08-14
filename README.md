@@ -23,7 +23,7 @@ This project analyzes Zomato restaurant data to uncover insights about cuisine t
   - Matplotlib
   - Seaborn
   - Plotly (for interactive plots)
-- **Dataset Source**: [Zomato Dataset](https://www.kaggle.com/datasets)
+- **Dataset Source**: [Zomato Dataset](https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset)
 
 ## 📂 Project Structure
 📄 zomato_analysis.ipynb
@@ -34,7 +34,7 @@ This project analyzes Zomato restaurant data to uncover insights about cuisine t
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<Pus108>/<zomato-analysis>.git
    cd zomato-analysis
 pip install -r requirements.txt
 jupyter notebook zomato_analysis.ipynb
